@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ChiliKitchenRush" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#2E2118</item>
+    </style>
+</resources>

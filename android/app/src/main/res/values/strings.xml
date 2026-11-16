@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chili Kitchen Rush</string>
+
+    <string name="brand_title">CHILI KITCHEN RUSH</string>
+    <string name="brand_subtitle">BURNING CHILI X KITCHEN</string>
+    <string name="loading">LOADING</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_play_again">PLAY AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_levels">LEVELS</string>
+    <string name="cta_stats">STATS</string>
+    <string name="cta_collection">COLLECTION</string>
+    <string name="cta_settings">SETTINGS</string>
+    <string name="cta_go">GO</string>
+    <string name="cta_serve">SERVE</string>
+    <string name="cta_heat_up">HEAT UP</string>
+    <string name="cta_cool_down">COOL DOWN</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_upgrade">UPGRADE %1$d</string>
+    <string name="cta_maxed">MAXED</string>
+
+    <string name="menu_hint">HOLD THE HEAT · SERVE BEFORE THE BELL</string>
+    <string name="menu_shift_ready">SHIFT %1$d READY</string>
+    <string name="menu_best">BEST %1$d</string>
+    <string name="menu_no_best">FIRST SHIFT OF THE DAY</string>
+    <string name="menu_levels_value">%1$d / %2$d</string>
+    <string name="menu_collection_value">%1$d / %2$d RECIPES</string>
+    <string name="menu_stats_value">STATION TIER %1$d</string>
+
+    <string name="level_select_title">LEVEL SELECT</string>
+    <string name="level_number">%1$d</string>
+    <string name="band_wide">WIDE</string>
+    <string name="band_tight">TIGHT</string>
+    <string name="band_razor">RAZOR</string>
+
+    <string name="game_shift">SHIFT %1$d</string>
+    <string name="game_clock">%1$d:%2$02d</string>
+    <string name="game_ready">SHIFT READY</string>
+    <string name="game_heat_value">%1$.1f</string>
+    <string name="game_plates">PLATES</string>
+    <string name="game_target">TARGET</string>
+    <string name="game_plates_value">%1$d / %2$d</string>
+    <string name="game_combo">COMBO</string>
+    <string name="game_combo_value">x%1$d</string>
+    <string name="game_coins">COINS</string>
+    <string name="game_points_gain">+%1$d</string>
+    <string name="game_rush">RUSH</string>
+    <string name="game_hint">TAP HEAT UP OR COOL DOWN TO MATCH THE PIPS, THEN SERVE</string>
+
+    <string name="result_clean">PASS SERVED CLEAN</string>
+    <string name="result_bell">BELL RANG EARLY</string>
+    <string name="result_burned">KITCHEN BURNED DOWN</string>
+    <string name="result_record">NEW SHIFT RECORD</string>
+    <string name="result_perfect">PERFECT</string>
+    <string name="result_best_combo">BEST COMBO</string>
+    <string name="result_coins">COINS EARNED</string>
+    <string name="result_score">SCORE</string>
+
+    <string name="collection_title">RECIPE COLLECTION</string>
+    <string name="collection_empty">NOTHING PLATED YET · PLAY A SHIFT TO UNLOCK RECIPES</string>
+    <string name="collection_locked">COOK TO UNLOCK</string>
+    <string name="collection_mastery">MASTERY %1$d / 3</string>
+
+    <string name="stats_title">KITCHEN STATS</string>
+    <string name="stats_shifts">SHIFTS</string>
+    <string name="stats_plates">PLATES</string>
+    <string name="stats_rate">PERFECT RATE</string>
+    <string name="stats_rate_value">%1$d%%</string>
+    <string name="stats_stars">STARS</string>
+    <string name="stats_stations">KITCHEN STATIONS</string>
+    <string name="station_burner">BURNER</string>
+    <string name="station_cooling">COOLING RACK</string>
+    <string name="station_prep">PREP TABLE</string>
+    <string name="station_burner_effect">HEAT UP MOVES THE PAN BY %1$.2f</string>
+    <string name="station_cooling_effect">COOL DOWN DROPS THE PAN BY %1$.2f</string>
+    <string name="station_prep_effect">SERVE WINDOW WIDENED BY %1$.2f</string>
+    <string name="station_short">NOT ENOUGH SPICE COINS</string>
+
+    <string name="settings_title">KITCHEN SETTINGS</string>
+    <string name="settings_hand">HAND MODE</string>
+    <string name="settings_hand_note">Puts the cooling chip under your strong thumb</string>
+    <string name="settings_hand_left">LEFT</string>
+    <string name="settings_hand_right">RIGHT</string>
+    <string name="settings_timer">TIMER STYLE</string>
+    <string name="settings_timer_note">Show the shift clock as a draining bar or as seconds</string>
+    <string name="settings_timer_bar">BAR</string>
+    <string name="settings_timer_seconds">SECONDS</string>
+    <string name="settings_contrast">HIGH CONTRAST GAUGE</string>
+    <string name="settings_contrast_note">Solid heat bands and thicker window edges</string>
+    <string name="settings_motion">REDUCE MOTION</string>
+    <string name="settings_motion_note">Stops the looping decoration, keeps gameplay feedback</string>
+    <string name="settings_reset">RESET KITCHEN</string>
+    <string name="settings_reset_note">Clears coins, stars, station tiers and recipes</string>
+    <string name="settings_reset_confirm">Reset the whole kitchen? Coins, stars, tiers and recipes are cleared.</string>
+
+    <string name="dialog_paused">PAUSED</string>
+
+    <string name="coins_label">SPICE COINS</string>
+    <string name="state_locked">locked</string>
+    <string name="state_disabled">disabled</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+    <string name="state_selected">selected</string>
+    <string name="state_heat">heat %1$.1f of 10, target %2$.1f to %3$.1f</string>
+
+    <string name="cd_logo">Burning Chili X emblem</string>
+    <string name="cd_menu">Back to menu</string>
+    <string name="cd_pause">Pause the shift</string>
+    <string name="cd_wok">Cast iron wok on the burner</string>
+    <string name="cd_dish">Plated dish</string>
+    <string name="cd_cook">Line cook on the pass</string>
+    <string name="cd_chili">Chili pepper</string>
+    <string name="cd_lime">Lime and ice</string>
+
+    <string name="recipe_1">GHOST NOODLE BROTH</string>
+    <string name="recipe_1_note">Slow heat, never let it climb past eight.</string>
+    <string name="recipe_2">CHARRED CHILI OIL</string>
+    <string name="recipe_2_note">The oil has to shimmer before the flakes go in.</string>
+    <string name="recipe_3">SMOKED PEPPER STEW</string>
+    <string name="recipe_3_note">Low and patient, the smoke does the work.</string>
+    <string name="recipe_4">FIRECRACKER WINGS</string>
+    <string name="recipe_4_note">Hard sear, one flip, straight to the pass.</string>
+    <string name="recipe_5">LIME ASH TACOS</string>
+    <string name="recipe_5_note">Cool the pan or the lime turns bitter.</string>
+    <string name="recipe_6">EMBER BEAN POT</string>
+    <string name="recipe_6_note">Hold it steady, beans punish a wobbly flame.</string>
+    <string name="recipe_7">SCORPION RAMEN</string>
+    <string name="recipe_7_note">Ride the top of the gauge and do not blink.</string>
+    <string name="recipe_8">HONEY HABANERO RIBS</string>
+    <string name="recipe_8_note">Sweet first, heat second, never the other way.</string>
+    <string name="recipe_9">MIDNIGHT MOLE</string>
+    <string name="recipe_9_note">Twelve ingredients, one temperature, no shortcuts.</string>
+    <string name="recipe_10">BLISTERED STREET CORN</string>
+    <string name="recipe_10_note">Blister it fast, then pull the pan off the fire.</string>
+    <string name="recipe_11">VOLCANO DUMPLINGS</string>
+    <string name="recipe_11_note">Steam low, crisp high, serve in one breath.</string>
+    <string name="recipe_12">BURNING CHILI SPECIAL</string>
+    <string name="recipe_12_note">The house plate. Razor window, double pride.</string>
+</resources>
